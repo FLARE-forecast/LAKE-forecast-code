@@ -21,8 +21,4 @@ For creating a new lake forecast code, follow these steps:
   - `configuration/default/configure_flare.yml`
   - `configuration/default/observation_processing.yml`
 
-5- Edit the following files and change the `forecast_site` from `fcre` to `test`:
-  - `main_workflow.R`
-  - `workflows/default/combined_workflow.R`
-
-6- Now you can apply your desired changes to the codebase and then run the forecasts.
+5- Now you can apply your desired changes to the codebase and then run the forecasts.
